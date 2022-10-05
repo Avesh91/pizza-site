@@ -54,7 +54,9 @@
   color:rgb(255, 40, 40);
   
 }
-
+.footer{
+ height: 400px; 
+}
 body {
   font-family: "Montserrat", sans-serif;
 }
