@@ -8,7 +8,7 @@ const Prices = () => {
           <div className="col-4">
             <div className="price">
               <div className="price__img">
-                <img src="/img/pizza1.png" alt="pizza" />
+                <img src="/public/img/pizza1.png" alt="pizza" />
               </div>
               <h1 className="price__heading">Pizza Margeritta</h1>
               <p className="price__text">
